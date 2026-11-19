@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs & temp files
+dist/
+build/
+*.tsbuildinfo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
