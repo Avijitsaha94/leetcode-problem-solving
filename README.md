@@ -38,6 +38,7 @@ Each problem is organized in its own directory:
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | Two Pointers (Lookback-K) | [TypeScript](./0080-remove-duplicates-from-sorted-array-ii/2_solution.ts) | [Explanation (বাংলা)](./0080-remove-duplicates-from-sorted-array-ii/3_explanation.md) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Boyer-Moore Voting Algorithm | [TypeScript](./0169-majority-element/2_solution.ts) | [Explanation (বাংলা)](./0169-majority-element/3_explanation.md) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array Reversal Technique | [TypeScript](./0189-rotate-array/2_solution.ts) | [Explanation (বাংলা)](./0189-rotate-array/3_explanation.md) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Greedy / One Pass Tracking | [TypeScript](./0121-best-time-to-buy-and-sell-stock/2_solution.ts) | [Explanation (বাংলা)](./0121-best-time-to-buy-and-sell-stock/3_explanation.md) |
 
 ---
 
