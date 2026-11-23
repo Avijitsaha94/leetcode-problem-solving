@@ -39,6 +39,7 @@ Each problem is organized in its own directory:
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Boyer-Moore Voting Algorithm | [TypeScript](./0169-majority-element/2_solution.ts) | [Explanation (বাংলা)](./0169-majority-element/3_explanation.md) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array Reversal Technique | [TypeScript](./0189-rotate-array/2_solution.ts) | [Explanation (বাংলা)](./0189-rotate-array/3_explanation.md) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Greedy / One Pass Tracking | [TypeScript](./0121-best-time-to-buy-and-sell-stock/2_solution.ts) | [Explanation (বাংলা)](./0121-best-time-to-buy-and-sell-stock/3_explanation.md) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | Greedy / Cumulative Gains | [TypeScript](./0122-best-time-to-buy-and-sell-stock-ii/2_solution.ts) | [Explanation (বাংলা)](./0122-best-time-to-buy-and-sell-stock-ii/3_explanation.md) |
 
 ---
 
