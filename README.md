@@ -43,6 +43,7 @@ Each problem is organized in its own directory:
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Greedy / Max Reach | [TypeScript](./0055-jump-game/2_solution.ts) | [Explanation (বাংলা)](./0055-jump-game/3_explanation.md) |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Greedy / BFS Window | [TypeScript](./0045-jump-game-ii/2_solution.ts) | [Explanation (বাংলা)](./0045-jump-game-ii/3_explanation.md) |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | Bucket / Counting Sort | [TypeScript](./0274-h-index/2_solution.ts) | [Explanation (বাংলা)](./0274-h-index/3_explanation.md) |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Array + Map Design | [TypeScript](./0380-insert-delete-getrandom-o1/2_solution.ts) | [Explanation (বাংলা)](./0380-insert-delete-getrandom-o1/3_explanation.md) |
 
 ---
 
