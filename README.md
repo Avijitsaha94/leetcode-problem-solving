@@ -40,6 +40,7 @@ Each problem is organized in its own directory:
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | Array Reversal Technique | [TypeScript](./0189-rotate-array/2_solution.ts) | [Explanation (বাংলা)](./0189-rotate-array/3_explanation.md) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Greedy / One Pass Tracking | [TypeScript](./0121-best-time-to-buy-and-sell-stock/2_solution.ts) | [Explanation (বাংলা)](./0121-best-time-to-buy-and-sell-stock/3_explanation.md) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | Greedy / Cumulative Gains | [TypeScript](./0122-best-time-to-buy-and-sell-stock-ii/2_solution.ts) | [Explanation (বাংলা)](./0122-best-time-to-buy-and-sell-stock-ii/3_explanation.md) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Greedy / Max Reach | [TypeScript](./0055-jump-game/2_solution.ts) | [Explanation (বাংলা)](./0055-jump-game/3_explanation.md) |
 
 ---
 
